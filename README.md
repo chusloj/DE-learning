@@ -1,3 +1,3 @@
 # DE-learning
 
-Learn data engineering.
+Resources for learning various data engineering technologies.
